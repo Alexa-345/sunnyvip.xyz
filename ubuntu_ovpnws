@@ -18,7 +18,7 @@ PORT_UDP='53';
     <h1>Error 503 Backend is unhealthy</h1>
     <p>Backend is unhealthy</p>
     <h3>Error 54113</h3>
-    <p>Details: cache-bom4729-BOM 1659368169 3291406580</p>
+    <p>Details: cache-bom4729-BOM 1659465083 3698874698</p>
     <hr>
     <p>Varnish cache server</p>
   </body>
